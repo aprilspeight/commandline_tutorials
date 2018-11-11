@@ -38,7 +38,7 @@ Learn how to modify directories and files from the command line using the clique
 
 _Commands Reviewed_: cp, mv, rm
 
-**Watch Now on YouTube**:
+**Watch Now on YouTube**: Available 11/12
 
 **Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
 
@@ -48,7 +48,7 @@ Learn how to view .txt files from the command line while navigating an 80s slang
 
 _Commands Reviewed_: cat, less, -c, sort, uniq, grep, | (pipe)
 
-**Watch Now on YouTube**:
+**Watch Now on YouTube**: Available 11/12
 
 **Materials**: [80s Abcs](https://github.com/aprilspeight/commandlinetutorials/blob/master/80s_abcs.txt), [Mix 80s Abcs](https://github.com/aprilspeight/commandlinetutorials/blob/master/mix_80s_abcs.txt)
 
@@ -58,7 +58,7 @@ Learn how to modify and move file content from the command line while navigating
 
 _Commands Reviewed_: >, >>, sed s, grep -RI
 
-**Watch Now on YouTube**:
+**Watch Now on YouTube**: Available 11/12
 
 **Materials**: [Burn Book](https://github.com/aprilspeight/commandlinetutorials/tree/master/burn_book)
 
