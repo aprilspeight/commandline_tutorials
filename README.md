@@ -30,7 +30,7 @@ _Commands Reviewed_: mkdir, touch, mv, history
 
 **Watch Now on YouTube**: https://youtu.be/T1R-pW57L_Y
 
-**Materials**: [File Tree Structure](http://)
+**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
 
 #### :star: Modifying Directories and Files :star:
 
