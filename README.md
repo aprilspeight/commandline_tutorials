@@ -60,7 +60,7 @@ _Commands Reviewed_: >, >>, sed s, grep -RI
 
 **Watch Now on YouTube**:
 
-**Materials**: [Burn Book](http://)
+**Materials**: [Burn Book](https://github.com/aprilspeight/commandlinetutorials/tree/master/burn_book)
 
 #### :star: Bash Profile (coming soon) :star:
 
