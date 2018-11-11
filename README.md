@@ -30,7 +30,7 @@ _Commands Reviewed_: mkdir, touch, mv, history
 
 **Watch Now on YouTube**: https://youtu.be/T1R-pW57L_Y
 
-**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
+**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure.pdf)
 
 #### :star: Modifying Directories and Files :star:
 
@@ -40,7 +40,7 @@ _Commands Reviewed_: cp, mv, rm
 
 **Watch Now on YouTube**:
 
-**Materials**: [File Tree Structure](http://)
+**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
 
 #### :star: Navigating Txt Files from the Command Line :star:
 
