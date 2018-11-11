@@ -68,7 +68,7 @@ _Commands Reviewed_: >, >>, sed s, grep -RI
 ***
 In need of a refresher? Download cheatsheets to help you stay fresh with your commands!
 
-[Basic Commands](http://)
+[Basic Commands](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cheatsheet.pdf)
 
 ## Additional Resources
 ***
