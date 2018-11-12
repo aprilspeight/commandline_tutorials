@@ -19,7 +19,7 @@ _Commands Reviewed_: pwd, ls, cd
 
 **Watch Now on YouTube**: https://youtu.be/b_R988Q_DKQ
 
-**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure.pdf)
+**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure.pdf), [Cliques Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/cliques)
 
 
 #### :star: Command Line Basics - Part Two :star:
@@ -30,7 +30,7 @@ _Commands Reviewed_: mkdir, touch, mv, history
 
 **Watch Now on YouTube**: https://youtu.be/T1R-pW57L_Y
 
-**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure.pdf)
+**Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure.pdf), [Cliques Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/cliques)
 
 #### :star: Modifying Directories and Files :star:
 
@@ -40,7 +40,7 @@ _Commands Reviewed_: cp, mv, rm
 
 **Watch Now on YouTube**: Available 11/12
 
-**Materials**: [File Tree Structure (Modified)](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
+**Materials**: [File Tree Structure (Modified)](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf), [Cliques Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/cliques)
 
 #### :star: Navigating Txt Files from the Command Line :star:
 
