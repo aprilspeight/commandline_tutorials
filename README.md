@@ -50,7 +50,7 @@ _Commands Reviewed_: cat, less, -c, sort, uniq, grep, | (pipe)
 
 **Watch Now on YouTube**: Available 11/12
 
-**Materials**: [80s Abcs txt Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/80s_txt_files)
+**Materials**: [80s Abcs .txt Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/80s_txt_files)
 
 #### :star: Redirection :star:
 
