@@ -10,7 +10,7 @@ The Command Line - am I right? If you plan on doing some coding, it's nearly <b>
 from my Mac!
 
 ## Tutorials
-***
+
 #### :star: Command Line Basics - Part One :star:
 
 Learn how to navigate the command line using a file tree structure created based on the cliques from the movie Mean Girls. This video is part one of Command Line Basics.
@@ -65,13 +65,12 @@ _Commands Reviewed_: >, >>, sed s, grep -RI
 #### :star: Bash Profile (coming soon) :star:
 
 ## Cheatsheets
-***
+
 In need of a refresher? Download cheatsheets to help you stay fresh with your commands!
 
 [Basic Commands](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cheatsheet.pdf)
 
 ## Additional Resources
-***
 
 [Git for Windows](https://gitforwindows.org/) 
 
@@ -82,5 +81,5 @@ In need of a refresher? Download cheatsheets to help you stay fresh with your co
 [The Bash Academy](https://www.bash.academy/)
 
 ## Support
-***
+
 Have a question or issue accessing a tutorial or file? Feel free to send a message over to **info@vogueandcode.com**.
