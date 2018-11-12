@@ -1,9 +1,9 @@
 # <p align="center">Command Line Tutorial Resources</p>
 <p align="center">
-  <a href="https://github.com/aprilspeight/commandlinetutorials/new/master?readme=1#tutorials">Tutorials</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/new/master?readme=1#cheatsheets">Cheatsheets</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/new/master?readme=1#additional-resources">Additional Resources</a> | 
-  <a href="https://github.com/aprilspeight/commandlinetutorials/new/master?readme=1#support">Support</a>
+  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#tutorials">Tutorials</a> | 
+  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#cheatsheets">Cheatsheets</a> | 
+  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#additional-resources">Additional Resources</a> | 
+  <a href="https://github.com/aprilspeight/commandlinetutorials/blob/master/README.md#support">Support</a>
 </p>
 
 The Command Line - am I right? If you plan on doing some coding, it's nearly <b>IMPOSSIBLE</b> to get far without knowing some basic commands. Whether you're working on a Mac or PC, the command line is fun and easy to learn! In the videos below, I'll introduce you to the command line all
