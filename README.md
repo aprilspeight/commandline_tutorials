@@ -32,23 +32,23 @@ _Commands Reviewed_: mkdir, touch, mv, history
 
 **Materials**: [File Tree Structure](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure.pdf), [Cliques Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/cliques)
 
-#### :star: Modifying Directories and Files :star:
+#### :star: Modify Files and Directories :star:
 
 Learn how to modify directories and files from the command line using the cliques from the movie Mean Girls.
 
 _Commands Reviewed_: cp, mv, rm
 
-**Watch Now on YouTube**: Available 11/12
+**Watch Now on YouTube**: https://youtu.be/m11ZWtcFt3s
 
 **Materials**: [File Tree Structure (Modified)](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf), [Cliques Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/cliques)
 
-#### :star: Navigating Txt Files from the Command Line :star:
+#### :star: Navigating .Txt Files from the Command Line :star:
 
 Learn how to view .txt files from the command line while navigating an 80s slang dictionary.
 
 _Commands Reviewed_: cat, less, -c, sort, uniq, grep, | (pipe)
 
-**Watch Now on YouTube**: Available 11/12
+**Watch Now on YouTube**: https://youtu.be/s_nJr2aZs1I
 
 **Materials**: [80s Abcs .txt Files](https://github.com/aprilspeight/commandline_tutorials/tree/master/80s_txt_files)
 
@@ -58,7 +58,7 @@ Learn how to modify and move file content from the command line while navigating
 
 _Commands Reviewed_: >, >>, sed s, grep -RI
 
-**Watch Now on YouTube**: Available 11/12
+**Watch Now on YouTube**: https://youtu.be/rdn7mwHF6qU
 
 **Materials**: [Burn Book](https://github.com/aprilspeight/commandlinetutorials/tree/master/burn_book)
 
