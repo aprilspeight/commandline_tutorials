@@ -40,7 +40,7 @@ _Commands Reviewed_: cp, mv, rm
 
 **Watch Now on YouTube**: Available 11/12
 
-**Materials**: [File Tree Structure - Modified](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
+**Materials**: [File Tree Structure (Modified)](https://github.com/aprilspeight/commandlinetutorials/blob/master/Cliques_file_structure_modified.pdf)
 
 #### :star: Navigating Txt Files from the Command Line :star:
 
