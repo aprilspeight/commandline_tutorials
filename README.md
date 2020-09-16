@@ -82,4 +82,4 @@ In need of a refresher? Download cheatsheets to help you stay fresh with your co
 
 ## Support
 
-Have a question or issue accessing a tutorial or file? Feel free to send a message over to **president@joincomputerclub.com**.
+Have a question or issue accessing a tutorial or file? Feel free to send a message over to **info@vogueandcode.com**.
